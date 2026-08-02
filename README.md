@@ -7,7 +7,7 @@
 
 <!-- ==================== TYPING SVG ==================== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+PHP+%26+Laravel;Building+clean%2C+scalable+web+applications;Computer+Science+Student+%40+1337;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+PHP+%26+Laravel;Building+clean%2C+scalable+web+applications;Computer+Science+Student;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,15 +23,17 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## 👨‍💻 About Me
 
-I'm a Computer Science student based in Morocco, passionate about backend engineering and building reliable, well-structured web applications. My focus areas are **PHP & Laravel**, **JavaScript**, **databases**, and **low-level programming in C**, alongside hands-on experience with **Linux** environments.
+I'm a Computer Science student from Morocco with a strong passion for backend development and building reliable, scalable web applications.
 
-I enjoy turning real-world problems into clean, maintainable code — currently sharpening my algorithmic thinking through the 1337 curriculum while building production-style projects on the side.
+My main interests are PHP, Laravel, JavaScript, MySQL, C Programming, and Linux. I enjoy transforming real-world ideas into clean, maintainable software while continuously improving my technical and problem-solving skills.
+
+I enjoy turning real-world problems into clean, maintainable code while continuously improving my software engineering, backend development, and problem-solving skills through personal projects and continuous learning.
 
 ```
-📍  Based in Morocco
+📍  Meknes, Morocco
 🎓  Computer Science Student
 💻  Full Stack Developer (PHP · Laravel · JavaScript)
-🌱  Currently deepening C Programming & Laravel
+🌱  Currently learning C Programming & Laravel
 🚀  Open to internship opportunities
 ```
 
@@ -195,8 +197,8 @@ Personal portfolio website showcasing my projects, skills, and journey as a deve
 
 | Language | Proficiency |
 |---|---|
-| 🇫🇷 French | Fluent |
-| 🇬🇧 English | Fluent |
+| 🇫🇷 French | Intermediate |
+| 🇬🇧 English | Intermediate |
 | 🇲🇦 Arabic | Native |
 
 <br/>
@@ -205,16 +207,16 @@ Personal portfolio website showcasing my projects, skills, and journey as a deve
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://your-portfolio.com">
+  <a href="https://mostafa-mellouki.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/mostafamellouki/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/PhoenixN1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+ <a href="mailto:mostafamellouki6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -228,7 +230,7 @@ Personal portfolio website showcasing my projects, skills, and journey as a deve
 
 <br/>
 
-<i>"Code is like humor. When you have to explain it, it's bad."</i>
+<i>"First, solve the problem. Then, write the code."</i>
 
 <br/><br/>
 
