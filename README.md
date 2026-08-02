@@ -1,376 +1,237 @@
-&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
-&lt;!--                        GITHUB PROFILE README                   --&gt;
-&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
-
-&lt;!-- ─── HERO SECTION ─── --&gt;
-&lt;div align="center"&gt;
-
-  &lt;!-- Animated Typing SVG --&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYOUR+NAME%5D;Full+Stack+Developer;Backend+Enthusiast;Laravel+%7C+PHP+%7C+C+%7C+JavaScript;Building+Scalable+Solutions" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-  &lt;!-- Professional Tagline --&gt;
-  &lt;p&gt;
-    &lt;em&gt;Crafting robust backend architectures & elegant web experiences&lt;/em&gt;
-  &lt;/p&gt;
-
-  &lt;!-- Profile Views & Followers --&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /&gt;
-  &lt;img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?label=Followers&style=flat&color=0e75b6" alt="Followers" /&gt;
-
-&lt;/div&gt;
 
-&lt;br&gt;
 
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
+<div align="center">
 
-&lt;!-- ─── ABOUT ME ─── --&gt;
-&lt;h2 align="center"&gt;🧑‍💻 About Me&lt;/h2&gt;
+<!-- ==================== HERO BANNER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=220&section=header&text=Mostafa%20Mellouki&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-&lt;div align="center"&gt;
+<!-- ==================== TYPING SVG ==================== -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+PHP+%26+Laravel;Building+clean%2C+scalable+web+applications;Computer+Science+Student+%40+1337;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
-| | |
-|:---|:---|
-| 📍 &nbsp;**Location** | Morocco |
-| 🎓 &nbsp;**Education** | Computer Science Student |
-| 💻 &nbsp;**Role** | Full Stack Developer |
-| 🌱 &nbsp;**Learning** | C Programming (1337) & Laravel |
-| 🚀 &nbsp;**Status** | Open to internship opportunities |
+<br/>
 
-&lt;/div&gt;
+<img src="https://komarev.com/ghpvc/?username=PhoenixN1&label=Profile%20Views&color=0891b2&style=flat" alt="profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/PhoenixN1?label=Followers&style=flat&color=0891b2" alt="followers" />
 
-&lt;br&gt;
+</div>
 
-&lt;p align="center"&gt;
-  I'm a passionate &lt;strong&gt;Computer Science student&lt;/strong&gt; based in Morocco, driven by a deep curiosity for software engineering and modern web technologies. I specialize in building full-stack applications with a strong focus on &lt;strong&gt;backend development&lt;/strong&gt;, clean architecture, and scalable database design.
-&lt;/p&gt;
+<br/>
 
-&lt;p align="center"&gt;
-  My journey spans from low-level &lt;strong&gt;C programming&lt;/strong&gt; at &lt;strong&gt;1337&lt;/strong&gt; to crafting dynamic web platforms with &lt;strong&gt;Laravel&lt;/strong&gt; and &lt;strong&gt;PHP&lt;/strong&gt;. I thrive on solving complex problems, optimizing performance, and continuously expanding my technical horizons.
-&lt;/p&gt;
+<!-- ==================== ABOUT ME ==================== -->
+## 👨‍💻 About Me
 
-&lt;br&gt;
+I'm a Computer Science student based in Morocco, passionate about backend engineering and building reliable, well-structured web applications. My focus areas are **PHP & Laravel**, **JavaScript**, **databases**, and **low-level programming in C**, alongside hands-on experience with **Linux** environments.
 
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
+I enjoy turning real-world problems into clean, maintainable code — currently sharpening my algorithmic thinking through the 1337 curriculum while building production-style projects on the side.
 
-&lt;!-- ─── TECH STACK ─── --&gt;
-&lt;h2 align="center"&gt;🛠️ Tech Stack&lt;/h2&gt;
+```
+📍  Based in Morocco
+🎓  Computer Science Student
+💻  Full Stack Developer (PHP · Laravel · JavaScript)
+🌱  Currently deepening C Programming & Laravel
+🚀  Open to internship opportunities
+```
 
-&lt;div align="center"&gt;
+<br/>
 
-&lt;!-- Frontend --&gt;
-&lt;h4&gt;Frontend&lt;/h4&gt;
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /&gt;
-  &lt;img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /&gt;
-  &lt;img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /&gt;
-&lt;/p&gt;
-
-&lt;!-- Backend --&gt;
-&lt;h4&gt;Backend&lt;/h4&gt;
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /&gt;
-  &lt;img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /&gt;
-  &lt;img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" /&gt;
-&lt;/p&gt;
-
-&lt;!-- Database --&gt;
-&lt;h4&gt;Database&lt;/h4&gt;
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /&gt;
-  &lt;img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /&gt;
-&lt;/p&gt;
-
-&lt;!-- Programming --&gt;
-&lt;h4&gt;Programming&lt;/h4&gt;
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /&gt;
-  &lt;img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /&gt;
-&lt;/p&gt;
-
-&lt;!-- Tools --&gt;
-&lt;h4&gt;Tools & Platforms&lt;/h4&gt;
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /&gt;
-  &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;
-  &lt;img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /&gt;
-  &lt;img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" /&gt;
-  &lt;img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /&gt;
-  &lt;img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /&gt;
-  &lt;img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" /&gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;br&gt;
-
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
-
-&lt;!-- ─── GITHUB STATS ─── --&gt;
-&lt;h2 align="center"&gt;📊 GitHub Stats&lt;/h2&gt;
-
-&lt;div align="center"&gt;
-
-  &lt;!-- GitHub Trophies --&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" /&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-  &lt;!-- GitHub Stats Card --&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180" /&gt;
-
-  &lt;!-- Top Languages Card --&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" /&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-  &lt;!-- GitHub Streak --&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="100%" /&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-  &lt;!-- Contribution Graph --&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=github-dark&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" width="100%" /&gt;
-
-&lt;/div&gt;
-
-&lt;br&gt;
-
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
-
-&lt;!-- ─── FEATURED PROJECTS ─── --&gt;
-&lt;h2 align="center"&gt;🚀 Featured Projects&lt;/h2&gt;
-
-&lt;div align="center"&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;!-- Project 1: CityGuard --&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3 align="center"&gt;🛡️ CityGuard&lt;/h3&gt;
-      &lt;p align="center"&gt;
-        &lt;em&gt;Urban Incident Reporting Platform&lt;/em&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /&gt;
-        &lt;img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;a href="https://github.com/[YOUR_GITHUB_USERNAME]/CityGuard"&gt;
-          &lt;img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
-        &lt;/a&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    &lt;!-- Project 2: ZenithSoft --&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3 align="center"&gt;📈 ZenithSoft&lt;/h3&gt;
-      &lt;p align="center"&gt;
-        &lt;em&gt;Commercial Management Platform&lt;/em&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;a href="https://github.com/[YOUR_GITHUB_USERNAME]/ZenithSoft"&gt;
-          &lt;img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
-        &lt;/a&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;!-- Project 3: TWIDOR --&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3 align="center"&gt;🐦 TWIDOR&lt;/h3&gt;
-      &lt;p align="center"&gt;
-        &lt;em&gt;Twitter-like Social Network&lt;/em&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;a href="https://github.com/[YOUR_GITHUB_USERNAME]/TWIDOR"&gt;
-          &lt;img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
-        &lt;/a&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    &lt;!-- Project 4: Portfolio --&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3 align="center"&gt;🌐 Portfolio&lt;/h3&gt;
-      &lt;p align="center"&gt;
-        &lt;em&gt;Personal Portfolio Website&lt;/em&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /&gt;
-        &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /&gt;
-      &lt;/p&gt;
-      &lt;p align="center"&gt;
-        &lt;a href="https://github.com/[YOUR_GITHUB_USERNAME]/portfolio"&gt;
-          &lt;img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
-        &lt;/a&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;/div&gt;
-
-&lt;br&gt;
-
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
-
-&lt;!-- ─── EXPERIENCE ─── --&gt;
-&lt;h2 align="center"&gt;💼 Experience&lt;/h2&gt;
-
-&lt;div align="center"&gt;
-
-&lt;table width="100%"&gt;
-  &lt;tr&gt;
-    &lt;td width="50%" valign="top"&gt;
-
-**INSPIRE SOFT**  
-*Développeur Informatique*  
-`Décembre 2025 – Janvier 2026`
-
-- Developed and maintained full-stack web applications
-- Collaborated with cross-functional teams on software solutions
-- Implemented backend APIs and database architectures
-- Participated in code reviews and agile development workflows
-
-    &lt;/td&gt;
-    &lt;td width="50%" valign="top"&gt;
-
-**Vecttor Mek**  
-*Développeur Informatique*  
-`Mai 2025 – Juin 2025`
-
-- Built responsive web interfaces and user experiences
-- Integrated third-party services and RESTful APIs
-- Optimized application performance and database queries
-- Contributed to project planning and technical documentation
-
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;/div&gt;
-
-&lt;br&gt;
-
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
-
-&lt;!-- ─── SKILLS ─── --&gt;
-&lt;h2 align="center"&gt;⚡ Skills&lt;/h2&gt;
-
-&lt;div align="center"&gt;
-
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Backend-Expert-58A6FF?style=for-the-badge" alt="Backend" /&gt;
-  &lt;img src="https://img.shields.io/badge/Frontend-Advanced-58A6FF?style=for-the-badge" alt="Frontend" /&gt;
-  &lt;img src="https://img.shields.io/badge/Database-Advanced-58A6FF?style=for-the-badge" alt="Database" /&gt;
-  &lt;img src="https://img.shields.io/badge/Frameworks-Advanced-58A6FF?style=for-the-badge" alt="Frameworks" /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Tools-Proficient-58A6FF?style=for-the-badge" alt="Tools" /&gt;
-  &lt;img src="https://img.shields.io/badge/Git-Advanced-58A6FF?style=for-the-badge" alt="Git" /&gt;
-  &lt;img src="https://img.shields.io/badge/Linux-Proficient-58A6FF?style=for-the-badge" alt="Linux" /&gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;br&gt;
-
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
-
-&lt;!-- ─── LANGUAGES ─── --&gt;
-&lt;h2 align="center"&gt;🌍 Languages&lt;/h2&gt;
-
-&lt;div align="center"&gt;
+<!-- ==================== TECH STACK ==================== -->
+## 🛠️ Tech Stack
+
+<h4>Frontend</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<h4>Backend</h4>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+<h4>Database</h4>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<h4>Tools & Environment</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- ==================== GITHUB STATS ==================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PhoenixN1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixN1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoenixN1&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" width="65%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhoenixN1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06B6D4&line=06B6D4&point=ffffff" width="95%" />
+
+</div>
+
+<details>
+<summary>🏆 Trophies</summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PhoenixN1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+</details>
+
+<br/>
+
+<!-- ==================== PROJECTS ==================== -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ [CityGuard](https://github.com/PhoenixN1/cityguard)
+Smart urban incident reporting platform connecting citizens with local service providers — includes map-based reporting, proximity validation, and an admin dashboard.
+
+`PHP` `MySQL` `JavaScript` `Leaflet` `Bootstrap`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [ZenithSoft](https://github.com/PhoenixN1/zenithsoft)
+Commercial management platform for streamlining business operations, invoicing, and client tracking.
+
+`PHP` `MySQL` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐦 [TWIDOR](https://github.com/PhoenixN1/twidor)
+A Twitter-like social network with posts, interactions, and real-time-style feeds.
+
+`PHP` `MySQL` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio](https://github.com/PhoenixN1/portfolio)
+Personal portfolio website showcasing my projects, skills, and journey as a developer.
+
+`HTML5` `CSS3` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ==================== EXPERIENCE ==================== -->
+## 💼 Experience
+
+<table>
+<tr>
+<th align="left">Role</th>
+<th align="left">Company</th>
+<th align="left">Duration</th>
+</tr>
+<tr>
+<td>Computer Science Developer</td>
+<td><strong>INSPIRE SOFT</strong></td>
+<td>Dec 2025 – Jan 2026</td>
+</tr>
+<tr>
+<td>Computer Science Developer</td>
+<td><strong>Vecttor Mek</strong></td>
+<td>May 2025 – Jun 2025</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ==================== SKILLS ==================== -->
+## 🧩 Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Development-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend%20Development-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database%20Design-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel%20Framework-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version%20Control%20(Git)-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux%20Administration-0891B2?style=flat-square" />
+</p>
+
+<br/>
+
+<!-- ==================== LANGUAGES ==================== -->
+## 🌍 Languages
 
 | Language | Proficiency |
-|:---:|:---:|
-| 🇫🇷 French | Native |
-| 🇬🇧 English | Professional Working Proficiency |
+|---|---|
+| 🇫🇷 French | Fluent |
+| 🇬🇧 English | Fluent |
 | 🇲🇦 Arabic | Native |
 
-&lt;/div&gt;
+<br/>
 
-&lt;br&gt;
+<!-- ==================== CONTACT ==================== -->
+## 📬 Contact
 
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
+<p align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/PhoenixN1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-&lt;!-- ─── CONTACT ─── --&gt;
-&lt;h2 align="center"&gt;📫 Let's Connect&lt;/h2&gt;
+<br/>
 
-&lt;div align="center"&gt;
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
 
-&lt;p&gt;
-  &lt;em&gt;I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.&lt;/em&gt;
-&lt;/p&gt;
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=3&width=100%25" /> -->
 
-&lt;br&gt;
+<br/>
 
-&lt;p&gt;
-  &lt;a href="https://[YOUR_PORTFOLIO_URL]" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/[YOUR_GITHUB_USERNAME]" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:[your.email@example.com]" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<i>"Code is like humor. When you have to explain it, it's bad."</i>
 
-&lt;/div&gt;
+<br/><br/>
 
-&lt;br&gt;
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=100&section=footer" width="100%"/> -->
 
-&lt;!-- Elegant Separator --&gt;
-&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" /&gt;
-
-&lt;!-- ─── FOOTER ─── --&gt;
-&lt;div align="center"&gt;
-
-  &lt;br&gt;
-
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%" alt="footer wave" /&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-  &lt;p&gt;
-    &lt;em&gt;&lt;strong&gt;"Code is like humor. When you have to explain it, it's bad."&lt;/strong&gt;&lt;/em&gt;
-  &lt;/p&gt;
-  &lt;p&gt;— Cory House&lt;/p&gt;
-
-  &lt;br&gt;
-
-  &lt;p&gt;
-    &lt;sub&gt;Built with ❤️ by &lt;strong&gt;[YOUR NAME]&lt;/strong&gt; · 2026&lt;/sub&gt;
-  &lt;/p&gt;
-
-&lt;/div&gt;
+</div>
