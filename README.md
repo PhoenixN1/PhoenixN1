@@ -102,13 +102,7 @@ I enjoy turning real-world problems into clean, maintainable code while continuo
 
 </div>
 
-<details>
-<summary>🏆 Trophies</summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PhoenixN1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-</details>
+
 
 <br/>
 
