@@ -88,8 +88,9 @@ I enjoy turning real-world problems into clean, maintainable code while continuo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhoenixN1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixN1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PhoenixN1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhoenixN1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" width="48%" />
 
 <br/>
 
