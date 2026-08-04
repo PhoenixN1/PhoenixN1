@@ -1,11 +1,9 @@
 
 
 <div align="center">
+<a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=220&section=header&text=Mostafa%20Mellouki&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/></a>
 
-<!-- ==================== HERO BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=220&section=header&text=Mostafa%20Mellouki&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<!-- ==================== TYPING SVG ==================== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+PHP+%26+Laravel;Building+clean%2C+scalable+web+applications;Computer+Science+Student;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
