@@ -219,14 +219,13 @@ Personal portfolio website showcasing my projects, skills, and journey as a deve
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=3&width=100%25" /> -->
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=3&width=100%25" />
 
 <br/>
 
-<i>"First, solve the problem. Then, write the code."</i>
 
 <br/><br/>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=100&section=footer" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=100&section=footer" width="100%"/> 
 
 </div>
